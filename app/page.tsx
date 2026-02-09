@@ -138,16 +138,16 @@ export default function Home() {
           </h2>
           <div className="text-lg md:text-xl leading-relaxed text-gray-300 space-y-4">
             <p>
-              I'm an embedded systems engineer with a B.Tech in Computer Science, specializing in IoT and low-level systems.
+              I&apos;m an embedded systems engineer with a B.Tech in Computer Science, specializing in IoT and low-level systems.
             </p>
             <p>
               My work focuses on systems programming in C/C++, binary serialization, and bit-level manipulation. I build tools that interact directly with hardware and raw data streams.
             </p>
             <p>
-              I'm experienced with Linux development environments, build systems like Make, and hardware-software interfacing. Currently strengthening my skills in Embedded Linux and OS internals through Emertxe ECEP training.
+              I&apos;m experienced with Linux development environments, build systems like Make, and hardware-software interfacing. Currently strengthening my skills in Embedded Linux and OS internals through Emertxe ECEP training.
             </p>
             <p>
-              Over the past months, I've delivered 15+ rigorous systems projects—from LSB steganography to binary parsers—each one pushing my understanding of how computers work at the fundamental level.
+              Over the past months, I&apos;ve delivered 15+ rigorous systems projects—from LSB steganography to binary parsers—each one pushing my understanding of how computers work at the fundamental level.
             </p>
           </div>
         </motion.div>
