@@ -147,7 +147,8 @@ export default function Home() {
               I&apos;m experienced with Linux development environments, build systems like Make, and hardware-software interfacing. Currently strengthening my skills in Embedded Linux and OS internals through Emertxe ECEP training.
             </p>
             <p>
-              Over the past months, I&apos;ve delivered 15+ rigorous systems projects—from LSB steganography to binary parsers—each one pushing my understanding of how computers work at the fundamental level.
+              Over the past months, I&apos;ve completed multiple system-focused projects, ranging from LSB steganography to custom binary parsers and an mp3 tag reader/editor, all centered on low-level data representation and format-aware manipulation.
+            
             </p>
           </div>
         </motion.div>
@@ -387,7 +388,7 @@ export default function Home() {
             shahadkurungadan7@gmail.com
           </a>
           <a 
-            href="https://www.linkedin.com/in/shahad-kurungadan" 
+            href="https://www.linkedin.com/in/shahad-kurungadan-057596227/" 
             target="_blank" 
             rel="noopener noreferrer"
             className="flex items-center gap-2 text-gray-300 hover:text-github-blue transition-colors"
